@@ -1,3 +1,7 @@
+
+import React from './React';
+import Board from './Board ';
+
 class Game extends React.Component {
     constructor(props) {
         super(props);
